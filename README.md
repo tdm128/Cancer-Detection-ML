@@ -2,7 +2,7 @@
 
 A machine learning project to classify tumors as **benign** or **malignant** using **Logistic Regression**.
 
-## Overview
+# Overview
 
 This project uses a dataset containing features of breast cancer tumors to predict whether a tumor is malignant or benign. The model performs:
 
@@ -14,7 +14,7 @@ This project uses a dataset containing features of breast cancer tumors to predi
 
 The goal is to assist in early detection of cancer using machine learning techniques.
 
-## Dataset
+# Dataset
 
 The dataset `Cancer_Data.xlsx` contains features extracted from breast cancer images. The target variable is:
 
@@ -25,7 +25,7 @@ The dataset `Cancer_Data.xlsx` contains features extracted from breast cancer im
 
 **Note:** The dataset is included in the repository for demonstration purposes.
 
-## Installation
+# Installation
 
 1. Clone the repository:
 
@@ -40,7 +40,7 @@ cd Cancer-Detection-ML
 pip install -r requirements.txt
 ```
 
-## Usage
+# Usage
 
 Run the Python script to train the model and make predictions:
 
@@ -50,7 +50,7 @@ python cancer_detection.py
 
 You can also modify `input_data` in the script to predict on custom tumor data.
 
-## Features & Skills Applied
+# Features & Skills Applied
 
 * **Python**
 * **Pandas** & **NumPy** for data handling
@@ -59,7 +59,7 @@ You can also modify `input_data` in the script to predict on custom tumor data.
 * **Train/Test split & model evaluation**
 * **Prediction on unseen data**
 
-## Repository Structure
+# Repository Structure
 
 ```
 Cancer-Detection-ML/
