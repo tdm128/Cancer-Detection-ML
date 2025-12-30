@@ -64,9 +64,8 @@ You can also modify `input_data` in the script to predict on custom tumor data.
 ```
 Cancer-Detection-ML/
 │
-├── cancer_detection.py      # Main ML script
-├── Cancer_Data.xlsx         # Dataset
-├── README.md                # Project documentation
-├── requirements.txt         # Python dependencies
-└── .gitignore               # Git ignore rules
+├── cancer_detection.py      - Main ML script
+├── Cancer_Data.xlsx         - Dataset
+├── README.md                - Project documentation
+├── requirements.txt         - Python dependencies
 ```
